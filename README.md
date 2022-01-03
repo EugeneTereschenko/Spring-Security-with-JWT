@@ -1,3 +1,3 @@
 # Spring-Security-with-JWT
 # UserService
-That it is spring boot project
+That it is Spring Boot project, include Spring Security with JWT where is using Access and Refresh Tokens.
